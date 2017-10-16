@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-//˵�����Servlet��û�����кŵ�  
+//˵�����Servlet中文
 @SuppressWarnings("serial")  
 //˵�����Servlet��������jsonRequest�����ַ��/jsonRequest������web.xml��������һ����  
 @WebServlet(name = "jsonRequest", urlPatterns = { "/jsonRequest" })  
